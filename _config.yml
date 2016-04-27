@@ -1,0 +1,19 @@
+# Site settings
+title: Cylicon Valley
+email: info@cyliconvalley.es
+description: > # this means to ignore newlines until "baseurl:"
+  Lugar para impulsar el desarrollo de software dentro de Castilla y León
+url: "http://www.cyliconvalley.es"
+twitter_username: cylicon_valley
+github_username:  cyliconvalley
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+disqus: true
+disqus_shortname: 'cyliconvalley'
+
+# Build settings
+markdown: kramdown
