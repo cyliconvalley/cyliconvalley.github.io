@@ -9,7 +9,7 @@ permalink: /2016/08/17/recursos-de-from-the-trenches-2016/
 categories:
   - Charlas
 ---
-Con un poco de retraso publicamos los videos y presentaciones de las charlas de la última edición de From the trenches <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Con un poco de retraso publicamos los videos y presentaciones de las charlas de la última edición de From the trenches :)
 
 Aquí están, para vuestro disfrute:
 

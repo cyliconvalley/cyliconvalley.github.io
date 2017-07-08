@@ -36,7 +36,7 @@ Del **jueves al sábado** os esperamos a todos en la nueva edición del <a href=
 </div>
 
 <div>
-  Todos sois bienvenidos! <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+  Todos sois bienvenidos! :)
 </div>
 
 &nbsp;</p> 

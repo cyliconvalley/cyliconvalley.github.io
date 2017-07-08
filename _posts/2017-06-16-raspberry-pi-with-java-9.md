@@ -13,7 +13,7 @@ Antes de empezar con el verano y descansar un poco de eventos, queremos present
 
 Tenemos la suerte de contar esta vez con <a href="http://steveonjava.com/" target="_blank">Stephen Chin</a> (Chairman de JavaOne, director de Oracle Technology Network) y con <a href="https://twitter.com/JPeredaDnr" target="_blank">José Pereda</a> (Gluon) para ponernos al día sobre Raspberry Pi y como programarla con Java 9. Si os apetece, podéis traer vuestros portátiles y Raspberrys, aunque no es necesario ni será propiamente un taller.
 
-Esta charla será un poco especial, ya que por suerte hemos conseguido &#8220;meternos&#8221; en un &#8220;<a href="http://nighthacking.com/" target="_blank">Nighthacking</a>&#8221; de los que monta Stephen y será en Inglés, para que Stephen se sienta más cómodo <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Esta charla será un poco especial, ya que por suerte hemos conseguido &#8220;meternos&#8221; en un &#8220;<a href="http://nighthacking.com/" target="_blank">Nighthacking</a>&#8221; de los que monta Stephen y será en Inglés, para que Stephen se sienta más cómodo ;)
 
 &nbsp;
 

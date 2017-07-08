@@ -16,7 +16,7 @@ categories:
   <a href="/assets/2015/05/Software-testing-trend.jpg"><img class="aligncenter wp-image-1555" src="/assets/2015/05/Software-testing-trend.jpg" alt="Software-testing-trend" width="600" height="362" /></a>
 </p>
 
-Por aquí os dejamos los dos videos de las charlas y sus slides, espero que os guste <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Por aquí os dejamos los dos videos de las charlas y sus slides, espero que os guste ;)
 
 **<a class="yt-uix-sessionlink yt-uix-tile-link  spf-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Testing y arquitectura en Tuenti por @kinisoftware" href="https://www.youtube.com/watch?v=OpDc6neMIuU" data-sessionlink="feature=c4-feed-u&ei=CGCAVdykMYWycbrDg_AI&ved=CC0Qvxs">Testing y arquitectura en Tuenti por @kinisoftware</a>:**
 

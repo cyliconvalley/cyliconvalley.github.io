@@ -13,7 +13,7 @@ Cambiamos el formato habitual para celebrar un debate abierto sobre trabajo remo
 
 Cualquiera podrá participar y aportar sus ideas o preguntas.
 
-También cambiamos el sitio habitual y **se celebrará a las 11:30 en el [Gondomatik Wash-Bar](https://www.facebook.com/gondomatik/)** por lo que podremos tomar una caña o un refresco entre experiencia y experiencia <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+También cambiamos el sitio habitual y **se celebrará a las 11:30 en el [Gondomatik Wash-Bar](https://www.facebook.com/gondomatik/)** por lo que podremos tomar una caña o un refresco entre experiencia y experiencia :D
 
 Os esperamos a todos!
 

@@ -41,7 +41,7 @@ I think I&#8217;ve discovered a thing or two on how to be a better developer and
 
 Tenéis más información en el blog, os esperamos a todos!
 
-PD: puede que haya desayuno <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+PD: puede que haya desayuno :P
 
 &nbsp;
 
