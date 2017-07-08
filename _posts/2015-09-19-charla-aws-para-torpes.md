@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1599
 permalink: /2015/09/19/charla-aws-para-torpes/
-image: /assets/2015/09/AWS-Logo-Orange.jpg
+cover: /assets/2015/09/AWS-Logo-Orange.jpg
 categories:
   - Charlas
   - cyliconvalley

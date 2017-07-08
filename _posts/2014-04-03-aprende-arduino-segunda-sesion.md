@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=892
 permalink: /2014/04/03/aprende-arduino-segunda-sesion/
-image: /assets/2014/03/arduino.jpg
+cover: /assets/2014/03/arduino.jpg
 dsq_thread_id:
   - 2583838950
 

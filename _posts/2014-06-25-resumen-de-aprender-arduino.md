@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1088
 permalink: /2014/06/25/resumen-de-aprender-arduino/
-image: /assets/2014/03/arduino.jpg
+cover: /assets/2014/03/arduino.jpg
 dsq_thread_id:
   - 2792514678
 

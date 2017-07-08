@@ -1,19 +1,26 @@
 # Site settings
 title: Cylicon Valley
 email: info@cyliconvalley.es
-description: > # this means to ignore newlines until "baseurl:"
-  Lugar para impulsar el desarrollo de software dentro de Castilla y León
-url: "http://www.cyliconvalley.es"
-twitter_username: cylicon_valley
-github_username:  cyliconvalley
+#What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
+event_label: Charlas
 
-# Layout settings
-header_type: default  # values [ drawer, default ]
-post_type: highlight    # values [ highlight, default ]
-pagination_type: default  # values [ ops, default ]
+description: > # this means to ignore newlines until "baseurl:"
+   Punto de encuentro de todos aquellos grupos relacionados con las nuevas tecnologías que tengan voz dentro de la región de Castilla y León
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://cyliconvalley.com" # the base hostname & protocol for your site
 
 disqus: true
 disqus_shortname: 'cyliconvalley'
+author: CyLicon Valley
+twitter_username: cylicon_valley
+github_username:  cylicon_valley
 
 # Build settings
 markdown: kramdown
+
+#Have to show future posts for future events.
+future: true
+
+permalink: /event/:title.html
+

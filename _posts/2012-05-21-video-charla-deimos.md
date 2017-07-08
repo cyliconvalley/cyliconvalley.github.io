@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=481
 permalink: /2012/05/21/video-charla-deimos/
-image: /assets/2012/05/satellites.jpg
+cover: /assets/2012/05/satellites.jpg
 dsq_thread_id:
   - 698125615
 

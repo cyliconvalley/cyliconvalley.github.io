@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1393
 permalink: /2015/03/23/lechazoconf/
-image: /assets/2015/03/Screen-Shot-2015-03-22-at-20.27.10.png
+cover: /assets/2015/03/Screen-Shot-2015-03-22-at-20.27.10.png
 categories:
   - Charlas
 ---

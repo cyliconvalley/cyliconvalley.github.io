@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1580
 permalink: /2015/06/16/recursos-de-la-charla-sobre-tuenti-y-dnsimple/
-image: /assets/2015/05/Software-testing-trend.jpg
+cover: /assets/2015/05/Software-testing-trend.jpg
 categories:
   - aprendizaje
   - Charlas

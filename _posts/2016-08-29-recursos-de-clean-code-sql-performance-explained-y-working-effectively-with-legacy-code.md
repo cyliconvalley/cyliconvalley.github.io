@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1749
 permalink: /2016/08/29/recursos-de-clean-code-sql-performance-explained-y-working-effectively-with-legacy-code/
-image: /assets/2016/05/51oXyW8WQwL._SX387_BO1204203200_.jpg
+cover: /assets/2016/05/51oXyW8WQwL._SX387_BO1204203200_.jpg
 categories:
   - Charlas
 ---

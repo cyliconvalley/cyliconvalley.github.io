@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1638
 permalink: /2015/11/15/rxjava-en-practica/
-image: /assets/2015/11/6407041.png
+cover: /assets/2015/11/6407041.png
 description: En este taller os enseñaremos a usar RxJava en un proyecto Java/Android, desde un uso básico para gestionar tareas en segundo plano hasta casos de uso más complicados. Planteado en forma de pequeñas katas que resolver, habrá mucho código para saciar todas tus dudas sobre programación reactiva.
 
 categories:

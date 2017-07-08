@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1533
 permalink: /2015/05/04/actualizacion-open-space-expose-your-ignorance-con-programania/
-image: /assets/2015/05/logo_color_transparente.png
+cover: /assets/2015/05/logo_color_transparente.png
 categories:
   - Charlas
 ---

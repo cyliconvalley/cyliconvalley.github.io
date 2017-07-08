@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1754
 permalink: /2016/09/05/video-de-integracion-continua-con-travisci-github-y-heroku/
-image: /assets/2016/02/download.jpeg
+cover: /assets/2016/02/download.jpeg
 categories:
   - Charlas
 ---

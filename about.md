@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+navigation_title: About
 ---
 Somos un grupo de emprendedores que ideamos, creamos, y lanzamos proyectos.
 

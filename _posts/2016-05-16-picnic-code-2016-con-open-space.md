@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1727
 permalink: /2016/05/16/picnic-code-2016-con-open-space/
-image: /assets/2016/05/picnic_code_2016-May-16.jpg
+cover: /assets/2016/05/picnic_code_2016-May-16.jpg
 categories:
   - Charlas
 ---

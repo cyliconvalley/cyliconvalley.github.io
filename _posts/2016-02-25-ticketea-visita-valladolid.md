@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1657
 permalink: /2016/02/25/ticketea-visita-valladolid/
-image: /assets/2016/02/logoTKT_blanco_naranja11.png
+cover: /assets/2016/02/logoTKT_blanco_naranja11.png
 
 categories:
   - Charlas
