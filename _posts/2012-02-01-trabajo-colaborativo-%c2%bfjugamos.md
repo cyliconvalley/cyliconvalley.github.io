@@ -52,7 +52,7 @@ categories:
 </div>
 
 <div>
-  Contamos con la colaboración de la <strong><a href="http://www.valladolidadelante.es/lang/agencia/?refbol=agencia&refsec=agencia_donde-estamos" target="_blank">Agencia de Innovación y Desarrollo Económico de Valladolid</a></strong> para desarrollar el taller en sus instalaciones. Para tener constancia del número de asistentes y no vernos desbordados se ha habilitado un evento en Eventbrite para que os apuntéis <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+  Contamos con la colaboración de la <strong><a href="http://www.valladolidadelante.es/lang/agencia/?refbol=agencia&refsec=agencia_donde-estamos" target="_blank">Agencia de Innovación y Desarrollo Económico de Valladolid</a></strong> para desarrollar el taller en sus instalaciones. Para tener constancia del número de asistentes y no vernos desbordados se ha habilitado un evento en Eventbrite para que os apuntéis :D
 </div>
 
 &nbsp;

@@ -30,7 +30,7 @@ categories: aprendizaje
   </p>
   
   <p>
-    Tenemos que evitar esto a toda costa, centrarnos en lo que nos hace felices y pensar siempre en mejorar. Conseguir logros personales y profesionales para mantener nuestro entusiasmo. No debemos levantarnos por la mañana y pensar que nos queda otro largo día de trabajo, sino inspirarnos y decidir afrontar ese nuevo día con ilusión e intentar realizar las cosas lo mejor que podamos. <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+    Tenemos que evitar esto a toda costa, centrarnos en lo que nos hace felices y pensar siempre en mejorar. Conseguir logros personales y profesionales para mantener nuestro entusiasmo. No debemos levantarnos por la mañana y pensar que nos queda otro largo día de trabajo, sino inspirarnos y decidir afrontar ese nuevo día con ilusión e intentar realizar las cosas lo mejor que podamos. :D
   </p>
   
   <p>

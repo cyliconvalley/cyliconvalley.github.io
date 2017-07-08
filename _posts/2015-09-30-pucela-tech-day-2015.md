@@ -10,7 +10,7 @@ permalink: /2015/09/30/pucela-tech-day-2015/
 categories:
   - Charlas
 ---
-Volvemos a la carga otro año más con el <a href="http://www.pucelatechday.com/" target="_blank">#PucelaTechDay</a> <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+Volvemos a la carga otro año más con el <a href="http://www.pucelatechday.com/" target="_blank">#PucelaTechDay</a> :D
 
 **El Sábado 10 de Octubre**, nos juntaremos con <a href="https://twitter.com/ibonilm" target="_blank"><strong>Ibon Landa</strong></a> y<a href="https://twitter.com/asiermarques" target="_blank"><strong> Asier Marqués</strong></a> para charlar sobre **desarrollo mobile** y **devops multiplataforma**. Esta vez queríamos poner un granito de arena nosotros también, así que tenemos a **<a href="https://twitter.com/semurat" target="_blank">@semurat</a>** entre los ponentes!
 

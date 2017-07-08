@@ -25,4 +25,4 @@ Os dejamos los recursos de las charlas y el taller sobre Docker y Kubernetes.
 
 
   
-Muchas gracias a Adrián García y Javier Provecho <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Muchas gracias a Adrián García y Javier Provecho :)

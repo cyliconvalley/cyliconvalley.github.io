@@ -13,7 +13,7 @@ categories:
 
 Nuestros amigos de <a href="http://www.gui.uva.es/" target="_blank">GUI</a> de la Universidad de Valladolid (<a href="https://www.twitter.com/GUI_UVa" target="_blank">@GUI_UVa</a>) organizan un Taller sobre Docker, el popular y ligero sistema de contenedores. Nos van a enseñar las últimas novedades del proyecto así como a escalar nuestros servicios con buenas prácticas.
 
-Además gracias a la gente del GUI nos hemos enterado que este taller se hace a la par del **#DockerGlobalMentorWeek**. ¿qué no sabes lo que es? Estás tardando en buscarlo <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Además gracias a la gente del GUI nos hemos enterado que este taller se hace a la par del **#DockerGlobalMentorWeek**. ¿qué no sabes lo que es? Estás tardando en buscarlo ;)
 
 ¡Yo no me lo voy a perder!
 
