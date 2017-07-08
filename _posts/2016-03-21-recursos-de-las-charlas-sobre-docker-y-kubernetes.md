@@ -6,6 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1677
 permalink: /2016/03/21/recursos-de-las-charlas-sobre-docker-y-kubernetes/
+image: /assets/2016/03/Screen-Shot-2016-03-09-at-13.14.45.png
 categories:
   - Charlas
 ---

@@ -6,8 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=260
 permalink: /2012/01/25/no-te-quedes-sin-entusiasmo/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/01/Flor-en-la-nieve1.jpg
 dsq_thread_id:
   - 551822511
 categories: aprendizaje

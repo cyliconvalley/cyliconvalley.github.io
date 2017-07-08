@@ -6,8 +6,7 @@ author: javisantana
 layout: post
 guid: http://www.cyliconvalley.es/?p=382
 permalink: /2012/04/02/crea-wows-en-vez-de-software/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/04/logo_anfix.png
 dsq_thread_id:
   - 633861388
 

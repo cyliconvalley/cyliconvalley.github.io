@@ -6,6 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1778
 permalink: /2016/12/05/recursos-del-solid-gear-day/
+image: /assets/2016/11/solid.png
 categories:
   - Charlas
 ---
