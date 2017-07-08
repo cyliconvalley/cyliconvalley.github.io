@@ -6,6 +6,7 @@ author: semurat
 layout: post
 guid: http://www.cyliconvalley.es/?p=1758
 permalink: /2016/10/26/learndocker/
+image: /assets/2016/10/600_455453841.png
 categories:
   - Taller
 ---

@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=849
 permalink: /2014/03/18/aprende-arduino-taller-quincenal/
+image: /assets/2014/03/arduino.jpg
 dsq_thread_id:
   - 2457415580
 

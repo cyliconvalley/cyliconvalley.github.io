@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1370
 permalink: /2015/03/21/raspberry-pi-con-ambilight/
-
+image: /assets/2015/03/Screen-Shot-2015-03-21-at-21.08.37.png
 categories:
   - Charlas
 ---

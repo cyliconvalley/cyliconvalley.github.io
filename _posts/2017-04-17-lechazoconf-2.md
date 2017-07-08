@@ -6,6 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1844
 permalink: /2017/04/17/lechazoconf-2/
+image: /assets/2017/04/lechacito-2.png
 categories:
   - Charlas
   - cyliconvalley

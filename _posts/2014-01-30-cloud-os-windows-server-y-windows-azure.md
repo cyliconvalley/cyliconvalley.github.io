@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=825
 permalink: /2014/01/30/cloud-os-windows-server-y-windows-azure/
+image: /assets/2014/01/Windows-Azure1-800x502.jpg
 dsq_thread_id:
   - 2192320801
 

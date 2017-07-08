@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1858
 permalink: /2017/06/16/raspberry-pi-with-java-9/
+image: /assets/2017/06/vcr2BuG.png
 categories:
   - Charlas
 ---
