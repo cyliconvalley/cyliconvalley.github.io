@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1539
 permalink: /2015/05/19/calidad-en-tuenti-y-arquitectura-en-dnsimple-por-joaquin-engelmo-y-javier-acero/
-
+image: /assets/2015/05/Software-testing-trend.jpg
 categories:
   - Charlas
 ---

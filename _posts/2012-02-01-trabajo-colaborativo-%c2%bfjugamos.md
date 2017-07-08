@@ -6,8 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=277
 permalink: /2012/02/01/trabajo-colaborativo-%c2%bfjugamos/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/01/colaboracion.jpg
 dsq_thread_id:
   - 559980001
 

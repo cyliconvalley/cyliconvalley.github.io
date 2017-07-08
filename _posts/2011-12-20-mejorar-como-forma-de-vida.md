@@ -6,8 +6,7 @@ author: flopezluis
 layout: post
 guid: http://www.cyliconvalley.es/?p=187
 permalink: /2011/12/20/mejorar-como-forma-de-vida/
-aktt_notify_twitter:
-  - no
+image: /assets/2011/12/mejorar-tienda-virtua.jpg
 dsq_thread_id:
   - 510507952
 categories:

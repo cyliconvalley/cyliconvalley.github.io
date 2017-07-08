@@ -6,8 +6,7 @@ author: amaliahern
 layout: post
 guid: http://www.cyliconvalley.es/?p=348
 permalink: /2012/03/03/crea-tu-aplicacion-en-android/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/03/5c69CR_541107_android1.jpg
 dsq_thread_id:
   - 597481625
 

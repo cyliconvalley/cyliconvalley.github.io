@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1333
 permalink: /2015/03/04/charla-monta-tu-centro-multimedia-con-rapsberry-pi/
-
+image: /assets/2015/03/raspberrypi.jpg
 categories:
   - Charlas
 ---

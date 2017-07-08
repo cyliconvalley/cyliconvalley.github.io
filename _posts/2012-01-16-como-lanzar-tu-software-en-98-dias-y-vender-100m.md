@@ -6,8 +6,7 @@ author: semurat
 layout: post
 guid: http://www.cyliconvalley.es/?p=220
 permalink: /2012/01/16/como-lanzar-tu-software-en-98-dias-y-vender-100m/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/01/bonilla_serial_killer.jpg
 dsq_thread_id:
   - 541004822
 categories: Charlas

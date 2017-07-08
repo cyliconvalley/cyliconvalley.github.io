@@ -6,6 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1788
 permalink: /2016/12/22/recursos-del-cas-refrito-day/
+image: /assets/2016/12/icono_cas_115.png
 categories:
   - Charlas
 ---

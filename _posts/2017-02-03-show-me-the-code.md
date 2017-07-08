@@ -6,6 +6,7 @@ author: Juan Ignacio Sánchez Lara
 layout: post
 guid: http://www.cyliconvalley.es/?p=1794
 permalink: /2017/02/03/show-me-the-code/
+image: /assets/2017/02/Captura-de-pantalla-2017-02-03-a-las-11.57.49.png
 categories:
   - Charlas
 ---

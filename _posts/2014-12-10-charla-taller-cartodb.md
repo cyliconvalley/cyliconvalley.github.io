@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1260
 permalink: /2014/12/10/charla-taller-cartodb/
+image: /assets/2014/12/cartodb.jpg
 dsq_thread_id:
   - 3310785988
 

@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1558
 permalink: /2015/05/28/introduccion-a-silex-haciendo-las-cosas-bien-con-php/
-
+image: /assets/2015/05/silex-desarrollo-web-gil-y-profesional-con-php-17-638.jpg
 categories:
   - Charlas
 ---

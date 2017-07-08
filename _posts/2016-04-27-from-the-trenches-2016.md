@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1683
 permalink: /2016/04/27/from-the-trenches-2016/
+image: /assets/2016/04/fromTheTrenches2016-11.jpg
 categories:
   - Charlas
 ---

@@ -6,6 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1851
 permalink: /2017/05/11/debate-abierto-sobre-trabajo-remoto/
+image: /assets/2017/05/coffee-iphone-laptop-notebook.jpg
 categories:
   - Charlas
 ---

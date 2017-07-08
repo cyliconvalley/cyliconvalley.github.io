@@ -6,8 +6,7 @@ author: amaliahern
 layout: post
 guid: http://www.cyliconvalley.es/?p=545
 permalink: /2012/09/18/gestion-agil-de-proyectos-software/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/09/puzzle1.jpg
 dsq_thread_id:
   - 849177010
 

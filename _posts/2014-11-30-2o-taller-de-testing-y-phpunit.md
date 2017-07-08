@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1252
 permalink: /2014/11/30/2o-taller-de-testing-y-phpunit/
+image: /assets/2014/11/phpunit-post-copia.jpg
 dsq_thread_id:
   - 3276865897
 categories:
