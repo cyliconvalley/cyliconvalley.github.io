@@ -6,6 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1088
 permalink: /2014/06/25/resumen-de-aprender-arduino/
+image: /assets/2014/03/arduino.jpg
 dsq_thread_id:
   - 2792514678
 
@@ -26,7 +27,7 @@ categories:
 </div>
 
   * Plantear algún tipo de proyecto fin de curso propuesto o libre (o una competición al mejor proyecto) para la siguiente sesión.
-  * Hacer un pedido de material más específico (módulo Wifi/bluetooth, cámara&#8230;) y seguir trasteando <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+  * Hacer un pedido de material más específico (módulo Wifi/bluetooth, cámara&#8230;) y seguir trasteando :)
   * O hacer una sesión específica de algún concepto ya visto para rezagados o nuevos asistentes&#8230;
 
 <div>
@@ -39,4 +40,4 @@ categories:
   PD: si alguien tiene un servo de 180º que quiere hacer continuo, dad un toque a <a href="http://twitter.com/nhpatt">@nhpatt</a> que sabe convertirlos.
 </div>
 
-[Actualización] Ha ganado hacer un proyecto final de curso con Arduino, vistas las fechas en las que nos movemos, volvemos después de las vacaciones, en Septiembre <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[Actualización] Ha ganado hacer un proyecto final de curso con Arduino, vistas las fechas en las que nos movemos, volvemos después de las vacaciones, en Septiembre :)

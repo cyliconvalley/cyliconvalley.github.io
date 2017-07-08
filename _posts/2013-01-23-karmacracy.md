@@ -6,6 +6,7 @@ author: amaliahern
 layout: post
 guid: http://www.cyliconvalley.es/?p=649
 permalink: /2013/01/23/karmacracy/
+image: /assets/2013/01/kmcy_katayuno.jpg
 dsq_thread_id:
   - 1041911846
 

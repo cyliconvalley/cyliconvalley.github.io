@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1252
 permalink: /2014/11/30/2o-taller-de-testing-y-phpunit/
+image: /assets/2014/11/phpunit-post-copia.jpg
 dsq_thread_id:
   - 3276865897
 categories:
@@ -42,7 +43,7 @@ En esta segunda sesión veremos:
 
 <a title="PHPUnit" href="http://www.eventbrite.es/e/entradas-charlataller-phpunit-segunda-sesion-14488460375" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=3724377714" alt="Eventbrite - Taller PHPUnit" /></a>
 
-****Te esperamos!! <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+****Te esperamos!! :D
 
 &nbsp;
 

@@ -16,7 +16,7 @@ categories:
 
 En este taller os enseñaremos a usar RxJava en un proyecto Java/Android, desde un uso básico para gestionar tareas en segundo plano hasta casos de uso más complicados. Planteado en forma de pequeñas katas que resolver, habrá mucho código para saciar todas tus dudas sobre programación reactiva.
 
-Te esperamos, tráete tu portátil o asiste cómo oyente <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+Te esperamos, tráete tu portátil o asiste cómo oyente :D
 
 # Dame más datos!
 

@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=825
 permalink: /2014/01/30/cloud-os-windows-server-y-windows-azure/
+image: /assets/2014/01/Windows-Azure1-800x502.jpg
 dsq_thread_id:
   - 2192320801
 
@@ -16,7 +17,7 @@ categories:
   <img class="size-full wp-image-827" title="Windows-Azure" src="/assets/2014/01/Windows-Azure.jpg" alt="" width="500" height="314" />
 </p>
 
-  Empezamos el año con buenas vibraciones y sobre todo charlas interesantes desde **CyLicon Valley**! Esta vez os traemos **junto con Microsoft** una serie de charlas que nos ocuparán toda la mañana hablando sobre **Windows Azure, Windows Server, Hyper-V** y todo ello regado con buenas prácticas  <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />Este evento de la comunidad &#8220;Cloud OS &#8211; Windows Server y Windows Azure&#8221; estará compuesto de 5 charlas:
+  Empezamos el año con buenas vibraciones y sobre todo charlas interesantes desde **CyLicon Valley**! Esta vez os traemos **junto con Microsoft** una serie de charlas que nos ocuparán toda la mañana hablando sobre **Windows Azure, Windows Server, Hyper-V** y todo ello regado con buenas prácticas  ;)Este evento de la comunidad &#8220;Cloud OS &#8211; Windows Server y Windows Azure&#8221; estará compuesto de 5 charlas:
 
   1. **09:30 &#8211; 09:45 &#8211; Intro** (ibon Landa &#8211; Windows Azure MVP)
   2. ****09:45 &#8211; 10:45 &#8211; Novedades

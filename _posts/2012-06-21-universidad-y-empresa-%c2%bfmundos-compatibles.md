@@ -6,8 +6,7 @@ author: semurat
 layout: post
 guid: http://www.cyliconvalley.es/?p=529
 permalink: /2012/06/21/universidad-y-empresa-%c2%bfmundos-compatibles/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/06/Universidad_Empresa.jpg
 dsq_thread_id:
   - 735224762
 

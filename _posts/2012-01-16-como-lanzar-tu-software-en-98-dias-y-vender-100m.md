@@ -6,13 +6,12 @@ author: semurat
 layout: post
 guid: http://www.cyliconvalley.es/?p=220
 permalink: /2012/01/16/como-lanzar-tu-software-en-98-dias-y-vender-100m/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/01/bonilla_serial_killer.jpg
 dsq_thread_id:
   - 541004822
 categories: Charlas
 ---
-Comenzaremos Febrero, de nuevo con un ponente de lujo, **<a title="Bonillaware" href="http://www.bonillaware.com/" target="_blank" rel="nofollow">David Bonilla</a>**. **Gracias a la colaboración de <a href="http://www.tid.es/" target="_blank" rel="nofollow"><strong>Telefónica I D (Telefónica Digital)</strong></a>** que lo invita a Valladolid y por ello podemos contar con su presencia nos va a reservar una hora para una de sus **AMAZING** charlas. Os garantizamos que **no te deja indiferente**  <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Comenzaremos Febrero, de nuevo con un ponente de lujo, **<a title="Bonillaware" href="http://www.bonillaware.com/" target="_blank" rel="nofollow">David Bonilla</a>**. **Gracias a la colaboración de <a href="http://www.tid.es/" target="_blank" rel="nofollow"><strong>Telefónica I D (Telefónica Digital)</strong></a>** que lo invita a Valladolid y por ello podemos contar con su presencia nos va a reservar una hora para una de sus **AMAZING** charlas. Os garantizamos que **no te deja indiferente**  ;)
 
 Con un título que no da lugar a dudas nos va a hablar sobre cómo en Silicon Valley, cualquier programador es capaz de hackear Matrix, con una sola llamada el banco te presta los millones que hagan falta para emprender y los unicornios andan sueltos por la calle. Si quieres saber cómo se desarrolla software en Silicon Valley y conocer la realidad que se oculta detrás del ruido, no te pierdas esta charla. **Sin tonterías. Sin anestesia**. 
 

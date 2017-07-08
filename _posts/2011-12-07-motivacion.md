@@ -6,7 +6,8 @@ author: admin
 layout: post
 guid: http://www.cyliconvalley.es/?p=1
 permalink: /2011/12/07/motivacion/
-dsq_thre  ad_id:
+image: /assets/2011/11/acantilado1.jpg
+dsq_thread_id:
   - 494607927
 categories: taller
 ---

@@ -6,8 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=277
 permalink: /2012/02/01/trabajo-colaborativo-%c2%bfjugamos/
-aktt_notify_twitter:
-  - no
+image: /assets/2012/01/colaboracion.jpg
 dsq_thread_id:
   - 559980001
 
@@ -52,7 +51,7 @@ categories:
 </div>
 
 <div>
-  Contamos con la colaboración de la <strong><a href="http://www.valladolidadelante.es/lang/agencia/?refbol=agencia&refsec=agencia_donde-estamos" target="_blank">Agencia de Innovación y Desarrollo Económico de Valladolid</a></strong> para desarrollar el taller en sus instalaciones. Para tener constancia del número de asistentes y no vernos desbordados se ha habilitado un evento en Eventbrite para que os apuntéis <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+  Contamos con la colaboración de la <strong><a href="http://www.valladolidadelante.es/lang/agencia/?refbol=agencia&refsec=agencia_donde-estamos" target="_blank">Agencia de Innovación y Desarrollo Económico de Valladolid</a></strong> para desarrollar el taller en sus instalaciones. Para tener constancia del número de asistentes y no vernos desbordados se ha habilitado un evento en Eventbrite para que os apuntéis :D
 </div>
 
 &nbsp;

@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1590
 permalink: /2015/06/18/android-swift-en-cylicon-valley/
-
+image: /assets/2015/06/5979571763_b076cb4368_o.jpg
 categories:
   - Charlas
 ---

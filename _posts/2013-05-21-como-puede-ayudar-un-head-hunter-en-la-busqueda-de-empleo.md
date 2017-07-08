@@ -6,6 +6,7 @@ author: amaliahern
 layout: post
 guid: http://www.cyliconvalley.es/?p=735
 permalink: /2013/05/21/como-puede-ayudar-un-head-hunter-en-la-busqueda-de-empleo/
+image: /assets/2013/05/headhunter.jpg
 dsq_thread_id:
   - 1303675154
 

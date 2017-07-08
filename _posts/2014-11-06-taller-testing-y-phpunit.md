@@ -6,6 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1228
 permalink: /2014/11/06/taller-testing-y-phpunit/
+image: /assets/2014/11/phpunit-post-copia.jpg
 dsq_thread_id:
   - 3199334646
 
@@ -38,7 +39,7 @@ categories:
   * **Si quieres apuntarte&#8230; **
 <a href="http://www.eventbrite.es/e/entradas-charlataller-phpunit-8557019275?aff=estw" rel="nofollow" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=3724377714" alt="Eventbrite - Taller PHPUnit" /></a> </ul> 
 
-****Te esperamos!! <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+****Te esperamos!! :D
 
 &nbsp;
 

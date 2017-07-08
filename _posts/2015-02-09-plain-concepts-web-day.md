@@ -6,6 +6,7 @@ author: semurat
 layout: post
 guid: http://www.cyliconvalley.es/?p=1315
 permalink: /2015/02/09/plain-concepts-web-day/
+image: /assets/2015/02/logoplainwww300.png
 dsq_thread_id:
   - 3499121831
 

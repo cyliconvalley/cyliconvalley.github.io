@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1620
 permalink: /2015/10/14/agile-university-day-2015-en-valladolid/
-
+image: /assets/2015/10/Screen-Shot-2015-10-14-at-15.13.10.png
 categories:
   - Charlas
 ---

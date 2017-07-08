@@ -29,7 +29,7 @@ La descripción de la charla de Docker es la siguiente:
   
 > Siendo una introducción no se pretende abarcar demasiado pero si unos trucos para ahorrarte tiempo y empezar a no poder vivir sin ella.
 > 
-> A mi ya me pasa, No puedo vivir sin Docker <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+> A mi ya me pasa, No puedo vivir sin Docker ;)
 
 Y sobre Kubernetes nos contarán:
 

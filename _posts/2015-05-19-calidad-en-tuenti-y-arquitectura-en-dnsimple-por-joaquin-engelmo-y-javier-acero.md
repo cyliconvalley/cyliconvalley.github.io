@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1539
 permalink: /2015/05/19/calidad-en-tuenti-y-arquitectura-en-dnsimple-por-joaquin-engelmo-y-javier-acero/
-
+image: /assets/2015/05/Software-testing-trend.jpg
 categories:
   - Charlas
 ---
@@ -24,7 +24,7 @@ _&#8220;1919&#8221;_:
 
 _&#8220;En Tuenti nos gusta el verde&#8221;_:
 
-> ¿A cuánta gente se le escucha decir eso de &#8220;el verde pa&#8217;los conejos/las vacas&#8221;? Yo siempre pienso que no saben lo que se pierden. Claro que podemos elegir algo que, a priori, parece más sabroso y jugoso, ¿algo rápido quizás? pero, ¿es bueno para nuestra salud? A corto plazo puedes decir que no pero a medio/largo plazo seguro que no das esa respuesta. Si quieres saber más sobre esta sana adicción en Tuenti ya sabes donde estaré  <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />Por cierto, hablamos de testing no de comida, no sea que te hayas confundido con la descripción ^_^
+> ¿A cuánta gente se le escucha decir eso de &#8220;el verde pa&#8217;los conejos/las vacas&#8221;? Yo siempre pienso que no saben lo que se pierden. Claro que podemos elegir algo que, a priori, parece más sabroso y jugoso, ¿algo rápido quizás? pero, ¿es bueno para nuestra salud? A corto plazo puedes decir que no pero a medio/largo plazo seguro que no das esa respuesta. Si quieres saber más sobre esta sana adicción en Tuenti ya sabes donde estaré  :)Por cierto, hablamos de testing no de comida, no sea que te hayas confundido con la descripción ^_^
 
 Y sus biografías:
 
@@ -32,7 +32,7 @@ Y sus biografías:
 
 &nbsp;
 
-[<img class="alignleft wp-image-1544" style="padding-right: 20px;" src="/assets/2015/05/Screen-Shot-2015-05-19-at-01.55.36.png" alt="Screen Shot 2015-05-19 at 01.55.36" width="140" height="143" />](/assets/2015/05/Screen-Shot-2015-05-19-at-01.55.36.png)Joaquín, Kini, Kinisoftware o Jengelmo, de todas esas formas me llaman en Tuenti y al menos de una de ellas el resto del mundo. Parece que se mucho pero en realidad no se nada. Lo poco que creo saber, a veces, lo comparto con otros. Programo diariamente en diferentes hierbas y hago magia negra en un terminal cuando es necesario. Soy extremeño, lo notarás rápido, y del Atleti, por si eso aporta algo de valor a mi persona <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[<img class="alignleft wp-image-1544" style="padding-right: 20px;" src="/assets/2015/05/Screen-Shot-2015-05-19-at-01.55.36.png" alt="Screen Shot 2015-05-19 at 01.55.36" width="140" height="143" />](/assets/2015/05/Screen-Shot-2015-05-19-at-01.55.36.png)Joaquín, Kini, Kinisoftware o Jengelmo, de todas esas formas me llaman en Tuenti y al menos de una de ellas el resto del mundo. Parece que se mucho pero en realidad no se nada. Lo poco que creo saber, a veces, lo comparto con otros. Programo diariamente en diferentes hierbas y hago magia negra en un terminal cuando es necesario. Soy extremeño, lo notarás rápido, y del Atleti, por si eso aporta algo de valor a mi persona :)
 
 &nbsp;
 
