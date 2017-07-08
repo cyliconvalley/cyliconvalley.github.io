@@ -40,6 +40,6 @@ La jornada tendrá 8 sesiones:
 
 Como siempre, **la entrada es totalmente gratuita**, por supuesto. Sin embargo, queremos a hacer un experimento que **agradezca el trabajo de los ponentes**. Recogeremos **kilos de alimentos en favor de la [Fundación Banco de Alimentos](https://www.bancodealimentosdevalladolid.es/)**. Y, si no quieres cargar con bolsas un sábado por la mañana, pondremos una hucha que irá íntegramente en favor de **[Proactiva Open Arms](https://www.proactivaopenarms.org/es)**, para ayudar a habilitar un nuevo barco con el que seguir salvando vidas en el Mediterráneo. Sería genial que, **si crees que lo que has recibido durante la mañana te aporta algo**, nos lo muestres en forma de **colaboración con estas asociaciones**. Obviamente, esto es totalmente voluntario. Si tiene buena acogida, lo iremos repitiendo a lo largo del año.
 
-[<img class="aligncenter wp-image-1817" src="http://www.cyliconvalley.es/wp-content/uploads/2017/02/openarms.png" alt="Proactiva Open Arms" width="399" height="297" />](http://www.cyliconvalley.es/wp-content/uploads/2017/02/openarms.png)
+[<img class="aligncenter wp-image-1817" src="/assets/2017/02/openarms.png" alt="Proactiva Open Arms" width="399" height="297" />](/assets/2017/02/openarms.png)
 
 ¡Te esperamos!

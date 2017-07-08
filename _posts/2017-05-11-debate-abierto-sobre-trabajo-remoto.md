@@ -19,13 +19,13 @@ Os esperamos a todos!
 
 # Ponentes
 
-<img class="alignleft wp-image-1566" style="margin-right: 20px;" src="http://www.cyliconvalley.es/wp-content/uploads/2015/05/delineas.jpeg" alt="delineas" width="150" />Daniel Primo, <a href="https://twitter.com/delineas" target="_blank">@delineas</a>, (<a href="https://es.linkedin.com/in/danielprimo" target="_blank">linkedin</a>) es uno de los miembro detrás de <a href="https://twitter.com/php_vll?lang=en" target="_blank"><strong>PHPValladolid</strong></a>,
+<img class="alignleft wp-image-1566" style="margin-right: 20px;" src="/assets/2015/05/delineas.jpeg" alt="delineas" width="150" />Daniel Primo, <a href="https://twitter.com/delineas" target="_blank">@delineas</a>, (<a href="https://es.linkedin.com/in/danielprimo" target="_blank">linkedin</a>) es uno de los miembro detrás de <a href="https://twitter.com/php_vll?lang=en" target="_blank"><strong>PHPValladolid</strong></a>,
 
 Programador web freelance orientado a hacerte la vida más fácil. Desde sus comienzos desarrolla con plataformas de software libre basadas en PHP, presentándose incluso como analista Drupal. Ya hace unos años comenzó el necesario giro al lado todavía más oscuro: Javascript, Symfony, aplicaciones móviles híbridas y buenas prácticas de programación.
 
 &nbsp;
 
-<img class="alignleft wp-image-1566" style="margin-right: 20px; margin-bottom: 20px;" src="http://www.cyliconvalley.es/wp-content/uploads/2017/05/picture-290-1473442774.jpg" alt="delineas" width="150" />Pablo López, <a href="https://twitter.com/plopesc" target="_blank">@plopesc</a>, (<a href="https://www.linkedin.com/in/plopesc" target="_blank">linkedin</a>) tiene mucha experiencia en Javascript y sistemas GIS, al igual que compromiso a Drupal y su comunidad. Es un miembro de Drupal desde el 2008.
+<img class="alignleft wp-image-1566" style="margin-right: 20px; margin-bottom: 20px;" src="/assets/2017/05/picture-290-1473442774.jpg" alt="delineas" width="150" />Pablo López, <a href="https://twitter.com/plopesc" target="_blank">@plopesc</a>, (<a href="https://www.linkedin.com/in/plopesc" target="_blank">linkedin</a>) tiene mucha experiencia en Javascript y sistemas GIS, al igual que compromiso a Drupal y su comunidad. Es un miembro de Drupal desde el 2008.
 
 En el 2009, durante su proyecto fin de carrera, descubrió Drupal y quedó encantado. Al poco tiempo lanzó su primera contribución. Drupal se transformó en su hobby y pasión mientras trabajaba en proyectos GIS.
 

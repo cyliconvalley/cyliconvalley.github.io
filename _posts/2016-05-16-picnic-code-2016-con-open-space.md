@@ -9,7 +9,7 @@ permalink: /2016/05/16/picnic-code-2016-con-open-space/
 categories:
   - Charlas
 ---
-[<img class="alignnone size-full wp-image-1728" src="http://www.cyliconvalley.es/wp-content/uploads/2016/05/picnic_code_2016-May-16.jpg" alt="picnic_code_2016-May-16" width="1024" height="576" />](http://www.cyliconvalley.es/wp-content/uploads/2016/05/picnic_code_2016-May-16.jpg)
+[<img class="alignnone size-full wp-image-1728" src="/assets/2016/05/picnic_code_2016-May-16.jpg" alt="picnic_code_2016-May-16" width="1024" height="576" />](/assets/2016/05/picnic_code_2016-May-16.jpg)
 
 &nbsp;
 
@@ -47,4 +47,4 @@ Del **jueves al sábado** os esperamos a todos en la nueva edición del <a href=
   * **Lugar: <a href="https://goo.gl/maps/SJbP3ziRz6r" target="_blank">Facultad de Informática, Universidad de Valladolid</a>**
   * **Si quieres apuntarte… **
 
-<a href="https://www.ticketea.com/entradas-picnic-code-2016/" target="_blank"><img class="aligncenter" title="Entradas" src="http://www.cyliconvalley.es/wp-content/uploads/2014/04/buyhere1.png" alt="" width="250" height="90" /></a>
+<a href="https://www.ticketea.com/entradas-picnic-code-2016/" target="_blank"><img class="aligncenter" title="Entradas" src="/assets/2014/04/buyhere1.png" alt="" width="250" height="90" /></a>

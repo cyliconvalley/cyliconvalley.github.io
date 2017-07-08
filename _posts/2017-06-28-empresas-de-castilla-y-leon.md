@@ -66,7 +66,7 @@ Tenéis más información en el <a href="https://www.meetup.com/es-ES/Cylicon-V
 # Ponentes:
 
 <div>
-  <a href="http://www.cyliconvalley.es/wp-content/uploads/2017/06/Grb.jpg"><img class="alignleft size-full wp-image-1877" style="margin-right: 20px; margin-bottom: 20px;" src="http://www.cyliconvalley.es/wp-content/uploads/2017/06/Grb.jpg" alt="Grb" width="259" height="195" /></a>
+  <a href="/assets/2017/06/Grb.jpg"><img class="alignleft size-full wp-image-1877" style="margin-right: 20px; margin-bottom: 20px;" src="/assets/2017/06/Grb.jpg" alt="Grb" width="259" height="195" /></a>
 </div>
 
 <div>
@@ -77,7 +77,7 @@ Tenéis más información en el <a href="https://www.meetup.com/es-ES/Cylicon-V
 </div>
 
 <div>
-  <a href="http://www.cyliconvalley.es/wp-content/uploads/2017/06/pablo_santos-250x175.jpg"><img class="alignleft size-full wp-image-1874" style="margin-right: 20px; margin-bottom: 20px;" src="http://www.cyliconvalley.es/wp-content/uploads/2017/06/pablo_santos-250x175.jpg" alt="pablo_santos-250x175" width="250" height="175" /></a>
+  <a href="/assets/2017/06/pablo_santos-250x175.jpg"><img class="alignleft size-full wp-image-1874" style="margin-right: 20px; margin-bottom: 20px;" src="/assets/2017/06/pablo_santos-250x175.jpg" alt="pablo_santos-250x175" width="250" height="175" /></a>
 </div>
 
 <div>
@@ -93,7 +93,7 @@ Tenéis más información en el <a href="https://www.meetup.com/es-ES/Cylicon-V
 &nbsp;
 
 <div>
-  <a href="http://www.cyliconvalley.es/wp-content/uploads/2017/06/angelica_lozano.jpg"><img class="alignleft size-full wp-image-1875" style="margin-right: 20px; margin-bottom: 20px;" src="http://www.cyliconvalley.es/wp-content/uploads/2017/06/angelica_lozano.jpg" alt="angelica_lozano" width="150" height="150" /></a>
+  <a href="/assets/2017/06/angelica_lozano.jpg"><img class="alignleft size-full wp-image-1875" style="margin-right: 20px; margin-bottom: 20px;" src="/assets/2017/06/angelica_lozano.jpg" alt="angelica_lozano" width="150" height="150" /></a>
 </div>
 
 <div>
@@ -109,7 +109,7 @@ Tenéis más información en el <a href="https://www.meetup.com/es-ES/Cylicon-V
 &nbsp;
 
 <div>
-  <a href="http://www.cyliconvalley.es/wp-content/uploads/2017/06/luisrodriguez.jpg"><img class="alignleft size-full wp-image-1876" style="margin-right: 20px; margin-bottom: 20px;" src="http://www.cyliconvalley.es/wp-content/uploads/2017/06/luisrodriguez.jpg" alt="luisrodriguez" width="150" height="150" /></a>
+  <a href="/assets/2017/06/luisrodriguez.jpg"><img class="alignleft size-full wp-image-1876" style="margin-right: 20px; margin-bottom: 20px;" src="/assets/2017/06/luisrodriguez.jpg" alt="luisrodriguez" width="150" height="150" /></a>
 </div>
 
 <div>

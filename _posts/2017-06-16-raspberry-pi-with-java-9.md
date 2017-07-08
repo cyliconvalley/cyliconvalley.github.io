@@ -107,7 +107,7 @@ En esta charla José nos contará como es mantener el SDK de JavaFX para ARM en 
 
 # Ponentes:
 
-[<img class="alignleft wp-image-1865" src="http://www.cyliconvalley.es/wp-content/uploads/2017/06/AAEAAQAAAAAAAAMVAAAAJDMxZWZmYzJmLTY5MzYtNGFlYy1hOTgxLWFlZjg0NzljNzFhYg.jpg" alt="AAEAAQAAAAAAAAMVAAAAJDMxZWZmYzJmLTY5MzYtNGFlYy1hOTgxLWFlZjg0NzljNzFhYg" width="150" height="150" />](http://www.cyliconvalley.es/wp-content/uploads/2017/06/AAEAAQAAAAAAAAMVAAAAJDMxZWZmYzJmLTY5MzYtNGFlYy1hOTgxLWFlZjg0NzljNzFhYg.jpg)
+[<img class="alignleft wp-image-1865" src="/assets/2017/06/AAEAAQAAAAAAAAMVAAAAJDMxZWZmYzJmLTY5MzYtNGFlYy1hOTgxLWFlZjg0NzljNzFhYg.jpg" alt="AAEAAQAAAAAAAAMVAAAAJDMxZWZmYzJmLTY5MzYtNGFlYy1hOTgxLWFlZjg0NzljNzFhYg" width="150" height="150" />](/assets/2017/06/AAEAAQAAAAAAAAMVAAAAJDMxZWZmYzJmLTY5MzYtNGFlYy1hOTgxLWFlZjg0NzljNzFhYg.jpg)
 
 **Stephen Chin**:
 
@@ -120,7 +120,7 @@ En esta charla José nos contará como es mantener el SDK de JavaFX para ARM en 
 &nbsp;
 
 <div>
-  <a href="http://www.cyliconvalley.es/wp-content/uploads/2017/06/0494987.jpg"><img class="alignleft wp-image-1866" src="http://www.cyliconvalley.es/wp-content/uploads/2017/06/0494987.jpg" alt="0494987" width="150" height="150" /></a>
+  <a href="/assets/2017/06/0494987.jpg"><img class="alignleft wp-image-1866" src="/assets/2017/06/0494987.jpg" alt="0494987" width="150" height="150" /></a>
 </div>
 
 <div>

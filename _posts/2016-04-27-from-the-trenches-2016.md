@@ -10,7 +10,7 @@ categories:
   - Charlas
 ---
 <p style="text-align: center;">
-  <a href="http://www.cyliconvalley.es/wp-content/uploads/2016/04/fromTheTrenches2016-11.jpg"><img class="aligncenter wp-image-1688 size-full" src="http://www.cyliconvalley.es/wp-content/uploads/2016/04/fromTheTrenches2016-11.jpg" alt="fromTheTrenches2016-1" width="800" height="600" /></a>
+  <a href="/assets/2016/04/fromTheTrenches2016-11.jpg"><img class="aligncenter wp-image-1688 size-full" src="/assets/2016/04/fromTheTrenches2016-11.jpg" alt="fromTheTrenches2016-1" width="800" height="600" /></a>
 </p>
 
 > 7 Charlas técnicas de 25 minutos en una sola mañana!!! ¿¿Estamos locos??
@@ -69,7 +69,7 @@ Ya está aquí otro año más, la nueva edición del &#8220;**From the trenches*
   * **Lugar: <a href="https://www.google.es/maps/place/Agencia+de+Innovaci%C3%B3n/@41.618862,-4.747401,17z/data=!3m1!4b1!4m2!3m1!1s0xd476cde13c9d9df:0xc54421ea5d686678" target="_blank">Agencia de Innovación</a>**
   * **Si quieres apuntarte… **
 
-<a href="https://www.ticketea.com/entradas-conferencia-from-the-trenches-2016/" target="_blank"><img class="aligncenter" title="Entradas" src="http://www.cyliconvalley.es/wp-content/uploads/2014/04/buyhere1.png" alt="" width="250" height="90" /></a>
+<a href="https://www.ticketea.com/entradas-conferencia-from-the-trenches-2016/" target="_blank"><img class="aligncenter" title="Entradas" src="/assets/2014/04/buyhere1.png" alt="" width="250" height="90" /></a>
 
 &nbsp;
 
@@ -77,7 +77,7 @@ Ya está aquí otro año más, la nueva edición del &#8220;**From the trenches*
 
 **Ponentes:**
 
-<img class=" alignleft" style="padding-right: 10px;" src="http://www.cyliconvalley.es/wp-content/uploads/2013/05/30cnbnlr6legb82ixsor-150x150.png" alt="" width="130" height="130" />**David González** (<a href="https://twitter.com/penguinjournals" target="_blank" rel="nofollow">@penguinjournals</a>): David se ha dado cuenta de que la entrega del producto no puede ser el cuello de botella entre el producto y el cliente y a ello dedica su día a día.
+<img class=" alignleft" style="padding-right: 10px;" src="/assets/2013/05/30cnbnlr6legb82ixsor-150x150.png" alt="" width="130" height="130" />**David González** (<a href="https://twitter.com/penguinjournals" target="_blank" rel="nofollow">@penguinjournals</a>): David se ha dado cuenta de que la entrega del producto no puede ser el cuello de botella entre el producto y el cliente y a ello dedica su día a día.
   
 El software se escribe una vez y se puede desplegar miles, escribirlo es craftsmanship, desplegarlo es ingeniería.
 
@@ -85,13 +85,13 @@ El software se escribe una vez y se puede desplegar miles, escribirlo es craftsm
 
 &nbsp;
 
-<img class="alignleft" style="padding-right: 10px;" src="http://www.cyliconvalley.es/wp-content/uploads/2013/05/6ad69fae-e7a4-4ae0-906e-64e26187960e.png" alt="" width="130" height="130" />**Guillermo Gutiérrez**(<a href="https://twitter.com/ggalmazor" target="_blank" rel="nofollow">@ggalmazor</a>): Aunque el término está muy manido y mi primer instinto es desconfiar de quien lo proclama, me considero un artesano. O sea, que me importan mucho mi empresa, mis productos, mis clientes y además disfruto intentando hacer un buen trabajo programando. Y la cerveza.
+<img class="alignleft" style="padding-right: 10px;" src="/assets/2013/05/6ad69fae-e7a4-4ae0-906e-64e26187960e.png" alt="" width="130" height="130" />**Guillermo Gutiérrez**(<a href="https://twitter.com/ggalmazor" target="_blank" rel="nofollow">@ggalmazor</a>): Aunque el término está muy manido y mi primer instinto es desconfiar de quien lo proclama, me considero un artesano. O sea, que me importan mucho mi empresa, mis productos, mis clientes y además disfruto intentando hacer un buen trabajo programando. Y la cerveza.
 
 &nbsp;
 
 &nbsp;
 
-<img class=" alignleft" style="padding-right: 10px;" src="http://www.cyliconvalley.es/wp-content/uploads/2013/05/ca656ba8731304f95d199115fbb14397-150x150.png" alt="" width="130" height="130" />
+<img class=" alignleft" style="padding-right: 10px;" src="/assets/2013/05/ca656ba8731304f95d199115fbb14397-150x150.png" alt="" width="130" height="130" />
   
 **Luis Artola** (<a href="https://twitter.com/artolamola" target="_blank" rel="nofollow">@artolamola</a>): es víctima de un trastorno de personalidad múltiple. Disfruta tanto haciendo TDD, como en labores comerciales o de Scrum Master. Del software le interesa TODO.
 
@@ -99,7 +99,7 @@ El software se escribe una vez y se puede desplegar miles, escribirlo es craftsm
 
 &nbsp;
 
-<img class=" alignleft" style="padding-right: 10px;" src="http://www.cyliconvalley.es/wp-content/uploads/2015/06/avatar.jpg" alt="" width="130" height="130" />**Javier Gamarra** ([@nhpatt](https://twitter.com/nhpatt)): I’m working as an Android developer at Liferay and I’ve worked in many development stacks: JS (angular, node…), Java EE, Scala or python. I love challenges and learning about **everything**
+<img class=" alignleft" style="padding-right: 10px;" src="/assets/2015/06/avatar.jpg" alt="" width="130" height="130" />**Javier Gamarra** ([@nhpatt](https://twitter.com/nhpatt)): I’m working as an Android developer at Liferay and I’ve worked in many development stacks: JS (angular, node…), Java EE, Scala or python. I love challenges and learning about **everything**
 
 &nbsp;
 
