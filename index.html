@@ -1,103 +1,59 @@
 ---
 layout: default
+cover: /assets/cyliconvalley_400.png
 ---
-<div class="page-content">
-  <div class="mdl-grid">
-  {% if site.post_type == 'highlight' %}
 
-    {% for post in site.posts %}
-    {% if post.highlight %}
+<div class="home">
 
-    <div class="section-highlight section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+	{% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
 
-      <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone" {% if post.image %} style="background: url('{{ post.image }}') center/contain; background-repeat: no-repeat;" {% endif %}></header>
+	<div class="clearfix">
 
-      <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
-        <div class="mdl-card__supporting-text">
-          <h4>{{ post.title }}</h4>
-          {% if post.description %}
-          <p>{{ post.description | markdownify }}</p>
-          {% else %}
-          <p>{{ post.excerpt }}</p>
-          {% endif %}
-        </div>
-        <div class="mdl-card__actions">
-          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-        </div>
-      </div>
+		{% if site.posts.length > 0 %}
+		<h1 class="event-time-heading fix-top">{% if site.event_label %} {{site.event_label}} {% else %} Events {% endif
+			%} futuras</h1>
+		{% endif %}
 
-      <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn-high-{{ post.id }}">
-        <i class="material-icons">more_vert</i>
-      </button>
-      <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn-high-{{ post.id }}">
-        <li><a href="https://www.facebook.com/dialog/share?app_id={{site.facebook_app_id}}&display=page&href={{ post.url | prepend: site.baseurl }}&redirect_uri={{ site.baseurl }}" class="mdl-menu__item">Facebook</a></li>
-        <li><a href="https://twitter.com/share?url={{ post.url | prepend: site.baseurl }}&text={{ post.title }}&via={{ site.twitter_username }}" class="mdl-menu__item">Twitter</a></li>
-        <li><a href="https://plus.google.com/share?url={{ post.url | prepend: site.baseurl }}" class="mdl-menu__item">Google+</a></li>
-      </ul>
+		{% for post in site.posts reversed %}
 
-    </div>
+		{% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
 
-    {% else %}
+		{% if blogDate >= currentDate %}
 
-    <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-desktop mdl-cell--4-col-tablet mdl-cell--12-col-phone">
-      <div class="mdl-card__title" {% if post.image %} style="background: url('{{ post.image }}') center/contain; background-repeat: no-repeat;" {% endif %}></div>
-      <div class="mdl-card__supporting-text">
-        <h2 class="mdl-card__title-text">{{ post.title }}</h2>
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        {% if post.description %}
-        <p>{{ post.description | markdownify }}</p>
-        {% else %}
-        <p>{{ post.excerpt }}</p>
-        {% endif %}
-      </div>
-      <div class="mdl-card__actions mdl-card--border">
-        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-      </div>
-      <div class="mdl-card__menu">
-        <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{ post.id }}">
-          <i class="material-icons">share</i>
-        </button>
-        <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="post-{{ post.id }}">
-          <li><a href="https://www.facebook.com/dialog/share?app_id={{site.facebook_app_id}}&display=page&href={{ post.url | prepend: site.baseurl }}&redirect_uri={{ site.baseurl }}" class="mdl-menu__item">Facebook</a></li>
-          <li><a href="https://twitter.com/share?url={{ post.url | prepend: site.baseurl }}&text={{ post.title }}&via={{ site.twitter_username }}" class="mdl-menu__item">Twitter</a></li>
-          <li><a href="https://plus.google.com/share?url={{ post.url | prepend: site.baseurl }}" class="mdl-menu__item">Google+</a></li>
-        </ul>
-      </div>
-    </div>
-    {% endif %}
-    {% endfor %}
+		<a href="{{ post.url | prepend: site.baseurl }}">
+			{% if post.cover %}
+			<div class="event-sqaure" style="background-image:url({{post.cover}});">
+				{% endif %}
+				<h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+				<div class='event-square-overlay'></div>
+			</div>
 
-  {% else %}
+		</a>
 
-    {% for post in site.posts %}
+		{% endif %}
 
-    <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-desktop mdl-cell--4-col-tablet  mdl-cell--12-col-phone">
-      <div class="mdl-card__title" {% if post.image %} style="background: url('{{ post.image }}') center/cover;" {% endif %}>
-        <h2 class="mdl-card__title-text">{{ post.title }}</h2>
-      </div>
-      <div class="mdl-card__supporting-text">
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        <p>{{ post.excerpt }}</p>
-      </div>
-      <div class="mdl-card__actions mdl-card--border">
-        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url | prepend: site.baseurl }}">
-          Read More
-        </a>
-      </div>
-      <div class="mdl-card__menu">
-        <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="post-{{ post.id }}">
-          <i class="material-icons">share</i>
-        </button>
-        <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="post-{{ post.id }}">
-          <li><a href="https://www.facebook.com/dialog/share?app_id={{site.facebook_app_id}}&display=page&href={{ post.url | prepend: site.baseurl }}&redirect_uri={{ site.baseurl }}" class="mdl-menu__item">Facebook</a></li>
-          <li><a href="https://twitter.com/share?url={{ post.url | prepend: site.baseurl }}&text={{ post.title }}&via={{ site.twitter_username }}" class="mdl-menu__item">Twitter</a></li>
-          <li><a href="https://plus.google.com/share?url={{ post.url | prepend: site.baseurl }}" class="mdl-menu__item">Google+</a></li>
-        </ul>
-      </div>
-    </div>
+		{% endfor %}
+	</div>
+	<div class="clearfix">
 
-    {% endfor %}
+		<h1 class="event-time-heading">{% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %}
+			pasadas</h1>
+		{% for post in site.posts %}
 
-  {% endif %}
-  </div>
+		{% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
+
+		{% if blogDate < currentDate %}
+
+		<a href="{{ post.url | prepend: site.baseurl }}">
+			<div class="event-sqaure" style="background-image:url({{post.cover}});">
+				<h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+				<div class='event-square-overlay'></div>
+			</div>
+		</a>
+
+		{% endif %}
+
+		{% endfor %}
+	</div>
+
 </div>
