@@ -17,4 +17,4 @@ Continuando con los posts de verano, publicamos los recursos de las charlas sobr
 
 Muchas gracias a las personas que nos acompañaron y nos vemos en la siguiente.
 
-Volveremos en seguida, que sabemos que nos echais de menos <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Volveremos en seguida, que sabemos que nos echais de menos :)

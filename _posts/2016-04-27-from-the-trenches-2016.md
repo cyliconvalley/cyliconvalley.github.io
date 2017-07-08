@@ -15,7 +15,7 @@ categories:
 
 > 7 Charlas técnicas de 25 minutos en una sola mañana!!! ¿¿Estamos locos??
 
-Ya está aquí otro año más, la nueva edición del &#8220;**From the trenches**&#8221; con la gente de <a href="http://www.programania.net/" target="_blank">Programanía</a>! Este año tenemos una novedad, esta vez nos unimos con ellos para dar **MÁS Charlas**! <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+Ya está aquí otro año más, la nueva edición del &#8220;**From the trenches**&#8221; con la gente de <a href="http://www.programania.net/" target="_blank">Programanía</a>! Este año tenemos una novedad, esta vez nos unimos con ellos para dar **MÁS Charlas**! :D
 
 &nbsp;
 

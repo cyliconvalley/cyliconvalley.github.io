@@ -21,7 +21,7 @@ categories:
 
 <img class="aligncenter" src="https://i.imgflip.com/1iw4j8.jpg" alt="We Want You" width="500" height="671" />
 
-**El recibimiento ha sido fantástico y en pocas horas hemos rellenado los huecos planificados  <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />¡Muchas gracias a todos!**
+**El recibimiento ha sido fantástico y en pocas horas hemos rellenado los huecos planificados :-) ¡Muchas gracias a todos!**
 
 De todas formas, si tienes muchas ganas de enseñar algo de código, escríbenos y te haremos un hueco o te reservaremos plaza en futuras ediciones de Show Me The Code!
 

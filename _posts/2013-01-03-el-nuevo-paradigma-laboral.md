@@ -14,7 +14,7 @@ categories:
   - Charlas
   - cyliconvalley
 ---
-En CyLicon Valley arrancamos el año 2013, y qué mejor forma de hacerlo que cargando las pilas de energía positiva y un buen chute de motivación  <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+En CyLicon Valley arrancamos el año 2013, y qué mejor forma de hacerlo que cargando las pilas de energía positiva y un buen chute de motivación  ;)
 
 Desde CyLicon Valley, tenemos el placer de poder presentaros a <a href="http://www.pensamientopositivo.org/" target="_blank">Sergio Fernández</a>.
 
@@ -31,7 +31,7 @@ Desde CyLicon Valley, tenemos el placer de poder presentaros a <a href="http://w
 </div>
 
 <div>
-  Contamos con la colaboración de la <strong><a href="http://www.valladolidadelante.es/lang/agencia/?refbol=agencia&refsec=agencia_donde-estamos" target="_blank">Agencia de Innovación y Desarrollo Económico de Valladolid</a></strong> para desarrollar la charla en sus instalaciones. Para tener constancia del número de asistentes y no vernos desbordados se ha habilitado un evento en Eventbrite para que os apuntéis <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+  Contamos con la colaboración de la <strong><a href="http://www.valladolidadelante.es/lang/agencia/?refbol=agencia&refsec=agencia_donde-estamos" target="_blank">Agencia de Innovación y Desarrollo Económico de Valladolid</a></strong> para desarrollar la charla en sus instalaciones. Para tener constancia del número de asistentes y no vernos desbordados se ha habilitado un evento en Eventbrite para que os apuntéis :D
 </div>
 
 <a href="http://www.eventbrite.com/event/5130557636?ref=ebtnebtckt" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=5130557636" alt="Eventbrite - El nuevo paradigma laboral" /></a> No dudes en ver esta entrevista a Sergio, donde habla sobre su visión del Paradigma Laboral actual <a href="https://vimeo.com/29933267" target="_blank"><img class="alignnone wp-image-627" title="sergio" src="/assets/2013/01/sergio-300x168.jpg" alt="" width="450" height="253" /></a> [Uakix: El nuevo paradigma laboral](http://vimeo.com/29933267) from [Revista Uakix](http://vimeo.com/uakixtv) on [Vimeo](http://vimeo.com).

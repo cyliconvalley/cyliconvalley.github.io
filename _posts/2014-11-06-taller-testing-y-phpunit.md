@@ -38,7 +38,7 @@ categories:
   * **Si quieres apuntarte&#8230; **
 <a href="http://www.eventbrite.es/e/entradas-charlataller-phpunit-8557019275?aff=estw" rel="nofollow" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=3724377714" alt="Eventbrite - Taller PHPUnit" /></a> </ul> 
 
-****Te esperamos!! <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+****Te esperamos!! :D
 
 &nbsp;
 

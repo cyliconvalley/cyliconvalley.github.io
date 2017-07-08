@@ -42,7 +42,7 @@ En esta segunda sesión veremos:
 
 <a title="PHPUnit" href="http://www.eventbrite.es/e/entradas-charlataller-phpunit-segunda-sesion-14488460375" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=3724377714" alt="Eventbrite - Taller PHPUnit" /></a>
 
-****Te esperamos!! <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+****Te esperamos!! :D
 
 &nbsp;
 

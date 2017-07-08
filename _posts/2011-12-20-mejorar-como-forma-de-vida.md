@@ -29,10 +29,10 @@ Además de todo esto, hace 3 años decidí acabar mi carrera, abandonada durante
 
 Si te gusta el deporte, salir a correr, ciclismo, etc entenderás mi respuesta.
 
-Cuando un ciclista sube un puerto casi medio muerto y llega a la meta, no piensa en el esfuerzo, la satisfacción de cumplir el objetivo por el que ha trabajado tan duro no le deja. Así que cuando llegue a la meta te diré si compensa. Ahora muchos dirán, pero con metas tan lejanas es complicado llegar sin flaquear, cierto, por eso me planteo metas intermedias que me compensen a corto plazo, primero acabar la diplomatura, luego el grado, ahora el máster de acceso a la tesis de doctorado y por último la tesis. Y con el trabajo igual, siempre metas en mente, puedes pensar de mi como un burro que se pone zanahorias, pero ojo que éstas se acaban cogiendo <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Cuando un ciclista sube un puerto casi medio muerto y llega a la meta, no piensa en el esfuerzo, la satisfacción de cumplir el objetivo por el que ha trabajado tan duro no le deja. Así que cuando llegue a la meta te diré si compensa. Ahora muchos dirán, pero con metas tan lejanas es complicado llegar sin flaquear, cierto, por eso me planteo metas intermedias que me compensen a corto plazo, primero acabar la diplomatura, luego el grado, ahora el máster de acceso a la tesis de doctorado y por último la tesis. Y con el trabajo igual, siempre metas en mente, puedes pensar de mi como un burro que se pone zanahorias, pero ojo que éstas se acaban cogiendo :)
 
 Si quieres algo, puedes. Yo hace mucho tiempo que sigo esta frase: Mi voluntad es mi límite.
 
 Mentiría si dijera que no flaqueo, ahora mismo me estoy planteando si merece la pena seguir estudiando el máster, estoy aprendiendo poco y me quita mucho tiempo, tiempo que podría dedicar a multitud de cosas que me serán mucho, mucho más útiles. Idiomas, tecnologías, libros técnicos, no técnicos, etc.
 
-Después de escribir este tocho, no tengo claro que le pueda servir a alguien de algo, excepto a mi para poder explicar a mi gente porque a veces no tengo tiempo para quedar <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Después de escribir este tocho, no tengo claro que le pueda servir a alguien de algo, excepto a mi para poder explicar a mi gente porque a veces no tengo tiempo para quedar :)

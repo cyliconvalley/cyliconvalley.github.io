@@ -18,11 +18,11 @@ categories:
 
 A todos nos gusta tener un **centro multimedia** en el salón, conectado a la tele, y poder ver las películas y las series que tengamos descargadas. Y mucho más si nos cuesta **menos de 50 Euros!**
 
-Con **Raspberry Pi** es muy fácil montártelo y sobre todo **barato**! <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+Con **Raspberry Pi** es muy fácil montártelo y sobre todo **barato**! :D
 
 En esta charla, veremos qué es eso de &#8220;**Raspberry Pi**&#8220;, qué opciones tiene y qué podemos hacer con ella. Desde crear servidores web,  puntos de acceso wifi, estaciones meteorológicas y centros multimedia, podemos hacer casi de todo con una Raspberry Pi.
 
-Además enseñaremos paso a paso como montarte y configurar tu propio centro multimedia &#8220;<a href="http://kodi.tv/" target="_blank">Kodi</a>&#8221; en una Raspberry Pi. Tanto si tienes Windows, Linux o MacOs en tu ordenador, no hay problema <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Además enseñaremos paso a paso como montarte y configurar tu propio centro multimedia &#8220;<a href="http://kodi.tv/" target="_blank">Kodi</a>&#8221; en una Raspberry Pi. Tanto si tienes Windows, Linux o MacOs en tu ordenador, no hay problema ;)
 
 ## **<span style="color: #ff0000;">Actualizado! </span>**
 

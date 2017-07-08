@@ -12,7 +12,7 @@ categories:
 ---
 Por aquí os dejamos las Slides de la presentación de la charla del sábado!
 
-Para la gente que no pudo asistir esta vez, realizaremos un segundo pase de la charla en unos días, estad atentos <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Para la gente que no pudo asistir esta vez, realizaremos un segundo pase de la charla en unos días, estad atentos ;)
 
 
 
@@ -20,7 +20,7 @@ Para la gente que no pudo asistir esta vez, realizaremos un segundo pase de la c
   <strong> <a title="AWS para Torpes - Introducción a AWS" href="//www.slideshare.net/loaisa/introduccion-aws" target="_blank">AWS para Torpes &#8211; Introducción a AWS</a> </strong> from <strong><a href="//www.slideshare.net/loaisa" target="_blank">Alvaro García Loaisa</a></strong>
 </div>
 
-Y aquí las Slides con las Notas añadidas <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Y aquí las Slides con las Notas añadidas ;)
 
 
 
@@ -32,4 +32,4 @@ Y aquí las Slides con las Notas añadidas <img src="http://www.cyliconvalley.es
 
 <a href="https://www.youtube.com/playlist?list=PL3428DhnIPQrv7MspVuU70iSD8IQF4avN" target="_blank">Los <strong>Videos de las demos</strong> están en esta lista de reproducción de youtube.</a>
 
-Muchas gracias a todos los asistentes y os esperamos en las siguientes! <img src="http://www.cyliconvalley.es/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+Muchas gracias a todos los asistentes y os esperamos en las siguientes! :D
