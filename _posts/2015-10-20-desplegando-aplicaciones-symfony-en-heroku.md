@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1624
 permalink: /2015/10/20/desplegando-aplicaciones-symfony-en-heroku/
-image: /assets/2015/10/heroku_symfony.jpg
+cover: /assets/2015/10/heroku_symfony.jpg
 description: Esta vez los chicos de [CloudManLabs](http://cloudmanlabs.com) nos traen una charla para enseñarnos a desplegar aplicaciones [Symfony](https://symfony.com) en [Heroku](https://www.heroku.com)
 
 categories:

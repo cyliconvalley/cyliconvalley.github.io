@@ -6,7 +6,7 @@ author: semurat
 layout: post
 guid: http://www.cyliconvalley.es/?p=682
 permalink: /2013/02/20/participacion-en-hackforgood/
-image: /assets/2013/02/hackforgood.png
+cover: /assets/2013/02/hackforgood.png
 dsq_thread_id:
   - 1094193895
 

@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=421
 permalink: /2012/04/19/boecillo-2012-una-odisea-en-el-espacio/
-image: /assets/2012/04/Deimos1.jpg
+cover: /assets/2012/04/Deimos1.jpg
 dsq_thread_id:
   - 656040823
 

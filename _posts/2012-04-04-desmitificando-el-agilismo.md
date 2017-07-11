@@ -6,7 +6,7 @@ author: amaliahern
 layout: post
 guid: http://www.cyliconvalley.es/?p=398
 permalink: /2012/04/04/desmitificando-el-agilismo/
-image: /assets/2012/04/unicorn_head.png
+cover: /assets/2012/04/unicorn_head.png
 dsq_thread_id:
   - 635505478
 

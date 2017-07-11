@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1782
 permalink: /2016/12/06/herramientas-adecuadas-katas-y-principios-y-valores-agiles/
-image: /assets/2016/12/icono_cas_115.png
+cover: /assets/2016/12/icono_cas_115.png
 categories:
   - Charlas
 ---

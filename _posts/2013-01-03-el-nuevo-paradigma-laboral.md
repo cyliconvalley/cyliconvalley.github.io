@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=617
 permalink: /2013/01/03/el-nuevo-paradigma-laboral/
-image: /assets/2013/01/sergio.jpg
+cover: /assets/2013/01/sergio.jpg
 dsq_thread_id:
   - 1005909583
 

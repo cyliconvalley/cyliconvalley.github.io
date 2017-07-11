@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=697
 permalink: /2013/05/09/programania-from-the-trenches/
-image: /assets/2013/05/trenches.jpg
+cover: /assets/2013/05/trenches.jpg
 dsq_thread_id:
   - 1276136799
 

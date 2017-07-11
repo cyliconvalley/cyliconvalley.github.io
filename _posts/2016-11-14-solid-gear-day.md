@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1765
 permalink: /2016/11/14/solid-gear-day/
-image: /assets/2016/11/solid.png
+cover: /assets/2016/11/solid.png
 categories:
   - Charlas
 ---

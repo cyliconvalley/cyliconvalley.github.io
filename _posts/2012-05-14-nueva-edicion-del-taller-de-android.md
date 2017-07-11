@@ -6,7 +6,7 @@ author: semurat
 layout: post
 guid: http://www.cyliconvalley.es/?p=457
 permalink: /2012/05/14/nueva-edicion-del-taller-de-android/
-image: /assets/2012/05/android-hd-768x1024.jpg
+cover: /assets/2012/05/android-hd-768x1024.jpg
 dsq_thread_id:
   - 689185730
 

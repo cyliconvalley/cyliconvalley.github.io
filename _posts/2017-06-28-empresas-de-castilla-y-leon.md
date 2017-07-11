@@ -6,6 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1873
 permalink: /2017/06/28/empresas-de-castilla-y-leon/
+cover: /assets/empresas-de-castilla-y-leon.jpg
 categories:
   - Charlas
 ---

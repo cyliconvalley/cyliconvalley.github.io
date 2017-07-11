@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1831
 permalink: /2017/04/11/orquestadores-para-las-cuatro-estaciones-swarm-kubernetes-mesos-y-rancher/
-image: /assets/2017/04/600_459661841.png
+cover: /assets/2017/04/600_459661841.png
 categories:
   - Charlas
 ---

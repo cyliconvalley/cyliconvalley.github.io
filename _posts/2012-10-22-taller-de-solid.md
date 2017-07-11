@@ -6,7 +6,7 @@ author: amaliahern
 layout: post
 guid: http://www.cyliconvalley.es/?p=575
 permalink: /2012/10/22/taller-de-solid/
-image: /assets/2012/10/solidprinciples2.jpg
+cover: /assets/2012/10/solidprinciples2.jpg
 categories:
   - Taller
 ---

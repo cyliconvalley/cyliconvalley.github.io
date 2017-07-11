@@ -6,7 +6,7 @@ author: semurat
 layout: post
 guid: http://www.cyliconvalley.es/?p=802
 permalink: /2013/10/09/charla-taller-de-story-mapping/
-image: /assets/2013/10/storymapping.jpg
+cover: /assets/2013/10/storymapping.jpg
 dsq_thread_id:
   - 1838880086
 

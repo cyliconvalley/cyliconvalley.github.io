@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1651
 permalink: /2016/02/09/introduccion-a-integracion-continua-con-travisci-github-y-heroku/
-image: /assets/2016/02/logotravis.png
+cover: /assets/2016/02/logotravis.png
 description: El próximo sábado día 20 nos acompañará [Javier Provecho](https://twitter.com/javierprovecho) en una charla sobre Integración Continua con [Travis-CI](https://travis-ci.org/), Github y Heroku.
 
 categories:

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.cyliconvalley.es/?p=1665
 permalink: /2016/03/09/docker-y-kubernetes-por-partida-doble/
 highlight: true
-image: /assets/2016/03/docker.png
+cover: /assets/2016/03/docker.png
 description: La próxima semana tenemos **2 eventos** que no os podéis perder!. Empezamos el **jueves 17** **con un taller** en la Universidad de Valladolid sobre Docker organizado en colaboración con el [Grupo Universitario de Informática](https://www.gui.uva.es/) (GUI).
 categories: 
   - charlas

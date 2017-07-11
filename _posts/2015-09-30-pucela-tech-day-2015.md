@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1613
 permalink: /2015/09/30/pucela-tech-day-2015/
-image: /assets/2015/09/pucelatechday.jpg
+cover: /assets/2015/09/pucelatechday.jpg
 categories:
   - Charlas
 ---

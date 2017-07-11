@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1642
 permalink: /2015/11/30/repetimos-aws-para-torpes/
-image: /assets/2015/11/AmazonWebservices_Logo.svg.png
+cover: /assets/2015/11/AmazonWebservices_Logo.svg.png
 description: Amazon Web Service por aquí AWS por allá. Si aún no te ha tocado o lo tienes pendiente, esta charla es para ti. El próximo sábado 19 daremos una introducción a los servicios principales y más utilizados de AWS. Servicios principales, creación, configuración y típicos usos de estos servicios. Precios, APIs, librerías, etc&#8230;
 
 categories:

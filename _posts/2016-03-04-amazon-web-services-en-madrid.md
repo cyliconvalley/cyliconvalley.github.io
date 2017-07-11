@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/?p=1660
 permalink: /2016/03/04/amazon-web-services-en-madrid/
-image: /assets/2015/11/AmazonWebservices_Logo.svg.png
+cover: /assets/2015/11/AmazonWebservices_Logo.svg.png
 description: El próximo jueves 10 de Marzo, CyLicon Valley **se acerca a Madrid** para hablar sobre Amazon Web Services. Es nuestra primera charla en Madrid, así que estamos nerviosos!
 
 categories: charlas, aws, madrid

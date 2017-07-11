@@ -6,7 +6,7 @@ author: Alvaro G. Loaisa
 layout: post
 guid: http://www.cyliconvalley.es/?p=1608
 permalink: /2015/09/27/recursos-de-la-charla-aws-para-torpes/
-image: /assets/2015/09/Charla-AWS.jpg
+cover: /assets/2015/09/Charla-AWS.jpg
 categories:
   - Charlas
 ---
