@@ -39,6 +39,8 @@ Ingeniero informático, programador apasionado; antes javero, ahora pinta mapas 
 
 <a href="http://twitter.com/@robergd" target="_blank"><strong>Rober González</strong></a>
 
+Cacereño en Valladolid, soy un diseñador apasionado por la experiencia de usuario y la accesibilidad web. Hago de CTO en Vital Innova dirigiendo el equipo de desarrollo.
+
 <a href="http://twitter.com/@patoroco" target="_blank"><strong>Jorge Maroto</strong></a>
 
 <a href="http://twitter.com/@maduil" target="_blank"><strong>Mario del Valle</strong></a>
