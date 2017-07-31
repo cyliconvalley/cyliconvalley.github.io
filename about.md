@@ -47,6 +47,8 @@ Cacereño en Valladolid, soy un diseñador apasionado por la experiencia de usua
 
 <a href="http://twitter.com/@sorayavay" target="_blank"><strong>Soraya Vay</strong></a>
 
+Interesada en mejorar y afrontar nuevos retos. He sido Scrum Master y desarrolladora web. En la actualidad me dedico a la gestión de equipos y proyectos, toda una aventura.
+
 <a href="http://twitter.com/@javisantana" target="_blank"><strong>Javier Santana</strong></a>
   
 Desarrollador pragmático, buscando la forma de hacer las cosas más simples y la vida más fácil desde el 81. Me gustan los pixels.
