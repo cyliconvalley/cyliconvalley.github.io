@@ -43,10 +43,6 @@ Ingeniero informático, programador apasionado; antes javero, ahora pinta mapas 
 
 Cacereño en Valladolid, soy un diseñador apasionado por la experiencia de usuario y la accesibilidad web. Hago de CTO en Vital Innova dirigiendo el equipo de desarrollo.
 
-<a href="http://twitter.com/@patoroco" target="_blank"><strong>Jorge Maroto</strong></a>
-
-<a href="http://twitter.com/@maduil" target="_blank"><strong>Mario del Valle</strong></a>
-
 <a href="http://twitter.com/@sorayavay" target="_blank"><strong>Soraya Vay</strong></a>
 
 Interesada en mejorar y afrontar nuevos retos. He sido Scrum Master y desarrolladora web. En la actualidad me dedico a la gestión de equipos y proyectos, toda una aventura.
@@ -58,3 +54,7 @@ Desarrollador pragmático, buscando la forma de hacer las cosas más simples y l
 <a href="http://twitter.com/@flopezluis" target="_blank"><strong>Felix Lopez</strong></a>
 
 Desarrollador feliz que tiene estas palabras como mantras: Aprender, descubrir, crear, innovar, esforzarse, implicarse, dedicación, enseñar.
+
+<a href="http://twitter.com/@patoroco" target="_blank"><strong>Jorge Maroto</strong></a>
+
+<a href="http://twitter.com/@maduil" target="_blank"><strong>Mario del Valle</strong></a>
