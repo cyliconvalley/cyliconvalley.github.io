@@ -55,6 +55,6 @@ Desarrollador pragmático, buscando la forma de hacer las cosas más simples y l
 
 Desarrollador feliz que tiene estas palabras como mantras: Aprender, descubrir, crear, innovar, esforzarse, implicarse, dedicación, enseñar.
 
-<a href="http://twitter.com/@patoroco" target="_blank"><strong>Jorge Maroto</strong></a>
-
 <a href="http://twitter.com/@maduil" target="_blank"><strong>Mario del Valle</strong></a>
+
+Estoy por haber de todo en este mundo, me encanta ayudar a la gente con problemas de diseño visual, en el tiempo libre pinto y coloreo para seguir aprendiendo. Ah y soy muy goloso.
