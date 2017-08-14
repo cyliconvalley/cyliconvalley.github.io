@@ -41,7 +41,7 @@ Marciano aterrizado en un planeta de locos y enamorado de las nuevas tecnología
 
 <a href="http://twitter.com/@patoroco" target="_blank"><strong>Jorge Maroto</strong></a>
 
-Fanboy por naturaleza, desarrollador por vicio. Se ha tirado unos cuantos años programando apps para iOS, aunque ahora anda probando a hacer cositas en Python (LLVM, cómo te echo de menos…) e intentando romper algún que otro servidor por [@ticketeaEng](http://twitter.com/@patoroco).
+Fanboy por naturaleza, desarrollador por vicio. Se ha tirado unos cuantos años programando apps para iOS, aunque ahora anda probando a hacer cositas en Python (LLVM, cómo te echo de menos…) e intentando romper algún que otro servidor por [@ticketeaEng](http://twitter.com/@ticketeaEng).
 
 <a href="http://twitter.com/@juanignaciosl" target="_blank"><strong>Juan Ignacio Sánchez Lara</strong></a>
 
