@@ -58,3 +58,7 @@ Desarrollador feliz que tiene estas palabras como mantras: Aprender, descubrir, 
 <a href="http://twitter.com/@maduil" target="_blank"><strong>Mario del Valle</strong></a>
 
 Estoy por haber de todo en este mundo, me encanta ayudar a la gente con problemas de diseño visual, en el tiempo libre pinto y coloreo para seguir aprendiendo. Ah y soy muy goloso.
+
+<a href="http://twitter.com/@patoroco" target="_blank"><strong>Jorge Maroto</strong></a>
+
+Fanboy por naturaleza, desarrollador por vicio. Se ha tirado unos cuantos años programando apps para iOS, aunque ahora anda probando a hacer cositas en Python (LLVM, cómo te echo de menos…) e intentando romper algún que otro servidor por [@ticketeaEng](http://twitter.com/@patoroco).
