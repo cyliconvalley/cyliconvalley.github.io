@@ -18,7 +18,9 @@ layout: default
 			{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
 				itemprop="name">{{ page.author }}</span></span>{% endif %}
 		</h2>
-		<h3 class="post-time">From {{ page.start_time}} to {{page.end_time }}</h3>
+		{% if page.start_time %}
+      <h3 class="post-time">From {{ page.start_time}} to {{page.end_time }}</h3>
+    {% endif %}
 	</header>
 
 	{% if organiser.photo %}
