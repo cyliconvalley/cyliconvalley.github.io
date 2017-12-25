@@ -15,7 +15,7 @@ En Junio tuvimos una sesión dedicada a empresas de Castilla y León en la que r
 <a href="https://www.linkedin.com/in/gusriobr/?ppe=1">Gustavo Río</a> contando que hace <a href="http://cartodroid.com/es/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://cartodroid.com/es/&source=gmail&ust=1498723915177000&usg=AFQjCNGfh1bryY8PePyB0YORpWYfBXrvSQ">CartoDroid</a> 
 y <a href="https://www.linkedin.com/in/luis-rodr%C3%ADguez-berzosa-32887936/?ppe=1">Luis Rodríguez</a> hablando de <a href="https://www.kiuwan.com/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=https://www.kiuwan.com/&source=gmail&ust=1498723915177000&usg=AFQjCNHFWnmi9qjTri0GbngUxuQWpXGgaw">Kiuwan</a>.
 
-Y de regalo de navidad os traemos los videos de las charlas! Por problemas técnicos no pudimos grabar la charla de Angélica y Pablo pero tuvieron una charla en la Pamplona Software Craftsmanship y el Meetup de MSCoders respectivamente.
+Y de regalo de navidad os traemos los videos de las charlas! Por problemas técnicos no pudimos grabar la charla de Pablo pero tuvieron una charla en el Meetup de MSCoders que adjuntamos.
 
 ### ¿Cómo es mi software por dentro? - Kiuwan por Luis Rodríguez
 
@@ -27,7 +27,7 @@ Y de regalo de navidad os traemos los videos de las charlas! Por problemas técn
 
 ### Same old story, brand new problems - mLean por Angélica Lozano
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C5Q10Z_WlFc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nzt0Ai4a3qA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 El [video](https://youtu.be/3eOTMHCwkY8) de Gustavo le publicaremos en breve.
 
