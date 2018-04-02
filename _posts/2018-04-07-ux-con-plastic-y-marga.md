@@ -14,7 +14,9 @@ categories:
 
 **Sesión doble de UX en CyLicon Valley!**
 
-En la primera parte Margarita Seco nos dará una charla de UX (contenido por definir).
+En la primera parte Margarita Seco nos dará una charla de UX:
+
+Hablaremos sobre palabros y etiquetas UX, haremos un recorrido por la metodología que se utiliza en diseño con algunos tips and tricks para realizar algunas sesiones de "guerrilla".
 
 En la segunda parte haremos un test de usabilidad de gmaster, el cliente de GIT para windows desarrollado en Valladolid y discutiremos sobre qué hace falta para diseñar una buena interfaz de usuario.
 
@@ -23,7 +25,7 @@ En la segunda parte haremos un test de usabilidad de gmaster, el cliente de GIT 
 # Ponentes:
 
 ## [Marga Seco](http://twitter.com/@MaggieBoop)
-Digital Product Designer. Le interesa la innovación, el diseño, el arte y todo lo que cambie un poquito el mundo.
+Ingeniera de formación y developer en sus años mozos, dio una vuelta a su carrera tras descubrir la experiencia de usuario. Ahora es una apasionada diseñadora de producto digital en el estudio madrileño Secuoyas. 
 
 <img src="/assets/2018/marga.png" style="height:150px;padding:1px;border:1px solid #021a40;"/>
 
