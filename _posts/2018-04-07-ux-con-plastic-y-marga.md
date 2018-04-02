@@ -46,6 +46,13 @@ A cargo de la mayor parte de la evolución de SemanticMerge y también de las GU
 
 <img src="/assets/2018/violeta.jpg" style="height:150px;padding:1px;border:1px solid #021a40;"/>
 
+## [Miryam](http://twitter.com/@miryamgsm)
+
+Ingeniera software, trabajó desarrollando software financiero antes de unirse a Códice. Desde entonces, desarrollando producto^3 @plasticscm @semanticmerge y @gmasterscm
+Con muchas ganas de observar la primera toma de contacto de nuevos usuarios con gmaster :)
+
+<img src="/assets/2018/miryam.png" style="height:150px;padding:1px;border:1px solid #021a40;"/>
+
 # Dame más datos!
 
 * Día: Sábado 7 de Abril (de 10:00 a 13:00)
