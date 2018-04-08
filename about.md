@@ -13,7 +13,7 @@ Este el lugar desde el que deseamos ayudar a que todos los que tengan un proyect
 
 También estamos disponibles en [meetup](https://www.meetup.com/es-ES/Cylicon-Valley/).
 
-En la siguiente lista, sin ningún orden particular, podrás conocer a los responsables de poner Cylicon Valley en marcha:
+En la siguiente lista podrás conocer a los responsables de poner Cylicon Valley en marcha:
 
 <a href="http://twitter.com/@aloaisa" target="_blank"><strong>Alvaro G. Loaisa</strong></a>
 
@@ -26,6 +26,10 @@ Persona apasionada y feliz. Compartir, aprender, crear, ayudar desde el mundo te
 <a href="http://twitter.com/@flopezluis" target="_blank"><strong>Felix Lopez</strong></a>
 
 Desarrollador feliz que tiene estas palabras como mantras: Aprender, descubrir, crear, innovar, esforzarse, implicarse, dedicación, enseñar.
+
+<a href="http://twitter.com/@isidromerayo " target="_blank"><strong>Isidro Merayo</strong></a>
+
+Berciano, emigrante en Valladolor y misántropo :) Sufriendo en el Desarrollo de Software y a veces también #sysadmin
 
 <a href="http://twitter.com/@nhpatt" target="_blank"><strong>Javier Gamarra</strong></a>
 
