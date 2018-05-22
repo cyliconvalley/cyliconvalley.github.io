@@ -1,11 +1,11 @@
 ---
-id: 1885
-title: LechazoConf 2018
-date: 2018-04-27T10:30:11+00:00
+id: 1886
+title: minsait
+date: 2018-06-02T10:00:11+00:00
 author: nhpatt
 layout: post
-guid: http://www.cyliconvalley.es/LechazoConf2018
-permalink: /2018/04/27/LechazoConf2018/
+guid: http://www.cyliconvalley.es/minsait
+permalink: /2018/06/02/minsait/
 cover: /assets/2018/minsait.png
 categories:
   - Charlas
