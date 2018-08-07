@@ -7,14 +7,7 @@
 
 		{% include header.html %}
 
-		{% if page.cover %}
-		<div style="text-align: center">
-			<img src="{{page.cover}}" style="height: 320px;">
-		</div>
-		<!--<div class="blog-cover" style="background-image:url({{page.cover}});"></div>-->
-		{% else %}
-		<div class="blog-cover"></div>
-		{% endif %}
+
 
 
 		<!--@include media-query($on-laptop){-->
@@ -26,6 +19,15 @@
 
 		<div class="page-content">
 			<div class="wrapper">
+
+				{% if page.cover %}
+				<div style="text-align: center">
+					<img src="{{page.cover}}" class="logo">
+				</div>
+				{% else %}
+				<div class="blog-cover"></div>
+				{% endif %}
+
 				{{ content }}
 			</div>
 		</div>
