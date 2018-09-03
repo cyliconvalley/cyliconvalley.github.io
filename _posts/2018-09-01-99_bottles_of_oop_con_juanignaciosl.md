@@ -1,7 +1,7 @@
 ---
 id: 1887
 title: "Taller de 99 Bottles of OOP"
-date: 2018-09-01T10:00:11+00:00
+date: 2018-09-15T10:00:11+00:00
 author: juanignaciosl
 layout: post
 guid: http://www.cyliconvalley.es/99-bottles-of-oop
