@@ -19,7 +19,7 @@ febrero](https://wecodefest.com/)**, y
 **[LechazoConf en mayo](https://lechazoconf.com/)** (fecha por confirmar,
 ¡todo el mundo atento!).
 
-Además, queremos inaugurar [**el canal de Slack #cyliconvalley**](https://remotehq.slack.com/messages/CCF7QGREE)
+Además, queremos inaugurar **el canal de Slack #cyliconvalley**. Apuntaos [en Slack a remotehq](https://cyliconvalley.herokuapp.com/), el canal es [#cyliconvalley](https://remotehq.slack.com/messages/CCF7QGREE)
 como medio de comunicación para la comunidad local. **[¡Apuntaos!](https://remotehq.slack.com/messages/CCF7QGREE)**
 
 Y... **¡arrancamos las jornadas de los sábados por la mañana con un taller!**
