@@ -68,6 +68,9 @@ sbt test # Falla con `not found: value BeerSong`
 
 Si tienes alguna duda, escribe a [Nacho vía Twitter en @juanignaciosl](https://twitter.com/juanignaciosl).
 
+
+Tras 4 horas hablando de botellas de cerveza habrá sed. Habrá quienes nos quedemos por allí tomando al menos una caña, ¡animaos!
+
 ## Dame más datos!
 
 * Día: Sábado 15 de Septiembre (de 10:00 a 14:00)
