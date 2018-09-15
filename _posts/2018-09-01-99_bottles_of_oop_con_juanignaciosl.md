@@ -76,3 +76,8 @@ Tras 4 horas hablando de botellas de cerveza habrá sed. Habrá quienes nos qued
 * Día: Sábado 15 de Septiembre (de 10:00 a 14:00)
 * Lugar: [Agencia de Innovación](https://www.google.es/maps/place/Agencia+de+Innovaci%C3%B3n/@41.618862,-4.747401,17z/data=!3m1!4b1!4m2!3m1!1s0xd476cde13c9d9df:0xc54421ea5d686678)
 * [Apúntate en el Meetup](https://www.meetup.com/es-ES/Cylicon-Valley/events/254297703/).
+
+# Contenido
+
+Puedes encontrar [el resumen, slides y código sobre el taller de 99 Bottles of
+OOP en el blog de Nacho](https://juanignaciosl.github.io/workshop/2018/09/15/99_bottles_of_oop.html).
