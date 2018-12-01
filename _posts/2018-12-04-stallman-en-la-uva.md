@@ -16,11 +16,11 @@ El martes 4 de diciembre, [Richard Stallman](https://en.wikipedia.org/wiki/Richa
 
 No hay muchas oportunidades de ver al fundador del movimiento de software libre, la [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation) o [GNU](https://en.wikipedia.org/wiki/GNU) en vivo. **No la desaproveches**!
 
+Las inscripciones se harán en la [web](https://inscripcion.inf.uva.es/)
+
 ## Descripción de la charla
 
 En apenas unos años hemos asistido a una explosión en la cantidad de datos digitales a nuestra disposición y en las tecnologías informáticas usadas para procesarlos. El "Big Data", como se le conoce, sin duda aportará importantes avances científicos, tecnológicos y médicos, y podría mejorar significativamente la formulación de políticas gubernamentales; pero también plantea serios riesgos si se abusa de él o se utiliza de manera inadecuada. ¿Hasta qué punto el usuario merece que sea obligatorio que se respete su libertad? Además, disponer de más datos no es sinónimo de tener datos de alta calidad. Cuando la gente sabe qué conjunto de datos se utiliza para tomar decisiones importantes, puede inclinar la balanza a su favor. Un tercer peligro es la violación de la privacidad. La actual obsesión por el dato está repercutiendo en perpetuar o incluso agravar la desigualdad social en el mundo.
-
-Las inscripciones se harán en la [web](https://inscripcion.inf.uva.es/)
 
 ## Dame más datos!
 
