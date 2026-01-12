@@ -14,7 +14,7 @@ categories:
 
 Volvemos en Cylicon Valley con una mesa redonda sobre desarrollo con IA, experiencias trabajando con Cursor, Claude Code, Gemini... te esperamos para compartir opiniones, flujos y trucos!
 
-Empezaremos a las 10:30 como primera convocatoria y 11:00, hasta cuando agotemos el tema asi que ven cuando puedas. Tambien hablaremos sobre la LechazoConf que sera el 30 de Mayo.
+Empezaremos a las 11:00, hasta cuando agotemos el tema asi que ven cuando puedas. Tambien hablaremos sobre la LechazoConf que sera el 30 de Mayo.
 
 Modera Nacho, Head of Engineering en Cavela y Factotum en Scribane, y puede contar experiencia de dos años tanto desarrollando-con como usando LLMs como parte del producto, pero no le dejemos hablar mucho, esto es una mesa redonda.
 
