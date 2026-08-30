@@ -1,5 +1,5 @@
 ---
-id: 1890
+id: 1891
 title: Richard Stallman en la UVa
 date: 2018-12-04T10:00:11+00:00
 author: nhpatt

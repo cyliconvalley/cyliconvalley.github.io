@@ -1,5 +1,5 @@
 ---
-id: 1891
+id: 1892
 title: Voice Assistant desde cero con javascript y raspberry pi
 date: 2018-12-15T11:00:00+00:00
 author: nhpatt

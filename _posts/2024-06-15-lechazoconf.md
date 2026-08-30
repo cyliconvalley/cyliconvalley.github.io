@@ -1,5 +1,5 @@
 ---
-id: 20194
+id: 20241
 title: LechazoConf 2024
 date: 2020-05-30T11:00:00+00:00
 author: nhpatt

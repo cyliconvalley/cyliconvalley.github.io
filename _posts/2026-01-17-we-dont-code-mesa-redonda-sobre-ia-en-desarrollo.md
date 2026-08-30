@@ -1,5 +1,5 @@
 ---
-id: 20194
+id: 20261
 title: We Dont Code - Mesa redonda sobre desarrollo con IA - Evento pre LechazoConf
 date: 2026-01-17T10:30:00+00:00
 author: nhpatt
