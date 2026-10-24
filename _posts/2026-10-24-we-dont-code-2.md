@@ -6,7 +6,7 @@ author: nhpatt
 layout: post
 guid: http://www.cyliconvalley.es/we-dont-code-2
 permalink: /2026/10/24/wedontcode2/
-cover: /assets/2026/claude-code.png
+cover: /assets/2026/we-dont-code-2.png
 categories:
   - Charlas
   - cyliconvalley
